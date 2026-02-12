@@ -16,7 +16,7 @@
 
 ---
 
-<h2 style="color:#ffffff;">Principal Systems & Agentic Architectures</h2>
+<h2 style="color:#ffffff;">Recent Deployments</h2>
 
 <table width="100%" style="background-color:#000000; color:#ffffff; border-collapse: collapse;">
 <tr>
