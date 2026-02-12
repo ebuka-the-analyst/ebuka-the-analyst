@@ -1,245 +1,106 @@
-<!-- ========================= -->
-<!--  HERO BANNER (PURE BLACK) -->
-<!-- ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Ebuka%20Umeh&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Ebuka%20Umeh&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center" style="color:white;">
-AI | Full-Stack Engineer | Data Systems Architect
-</h3>
+<h1 align="center">Systems Architect | Data Science Lead | Performance Engineer</h1>
 
 <p align="center">
-Building AI-powered SaaS Platforms for UK Startups & CTOs
-</p>
-
----
-
-<!-- ========================= -->
-<!--  METRICS STRIP (BLACK)   -->
-<!-- ========================= -->
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=ebuka-the-analyst&theme=dark&hide_border=true&background=000000&ring=00F5A0&fire=00F5A0"/>
+  <b>Bridging the Gap Between Computational Rigor and High-Conversion UX.</b><br>
+  MSc Data Science • 5+ Years Full-Stack Engineering • UK-Based Specialist
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebuka-the-analyst&bg_color=000000&color=ffffff&line=00F5A0&point=00F5A0&hide_border=true"/>
+  <a href="https://linkedin.com/in/ebukaumeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:benedict.umeh@stackrise.co.uk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--  EXECUTIVE OVERVIEW      -->
-<!-- ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=65&section=header&text=Executive%20Overview&fontColor=ffffff&fontSize=24"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=00F5A0&text_color=ffffff"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=ebuka-the-analyst&theme=dark&hide_border=true&background=000000&ring=00F5A0&fire=00F5A0"/>
 </p>
-
-Full-Stack Engineer based in the UK designing production-grade AI-integrated systems.
-
-I build:
-
-• End-to-end SaaS architectures  
-• AI-powered workflow engines  
-• Advanced analytics & decision systems  
-• Geospatial intelligence platforms  
-• Scalable backend infrastructure  
-
-I ship systems — not prototypes.
 
 ---
 
-<!-- ========================= -->
-<!--  UK CTO POSITIONING      -->
-<!-- ========================= -->
+## 🧩 The Strategic Intersection
+> "Modern web architecture is no longer about static delivery; it's about the orchestration of data, performance, and user trust."
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=65&section=header&text=Optimized%20for%20UK%20Startups%20%26%20CTOs&fontColor=ffffff&fontSize=24"/>
-</p>
+[cite_start]I engineer digital ecosystems for high-growth UK startups and CTOs. My approach leverages **MSc-level Data Science**  [cite_start]to inform **Full-Stack development**, ensuring that every line of code serves a measurable commercial outcome.
 
-I design systems aligned with:
-
-• Operational efficiency  
-• Compliance-aware architecture  
-• Revenue-driven automation  
-• Analytics-first product decisions  
-• Scalable cloud deployments  
-
-Ideal for:
-
-• Startup CTOs scaling product  
-• UK data-driven companies  
-• Founders building AI-native platforms  
+### Core Value Pillars:
+* [cite_start]**Performance Engineering:** Optimizing Core Web Vitals to reduce latency by up to 45%[cite: 27].
+* [cite_start]**Data Integrity & Analytics:** Implementing high-fidelity tracking (GA4/GTM) and Power BI dashboards to eliminate "data blind spots"[cite: 29, 30].
+* [cite_start]**System Scalability:** Architecting secure, GDPR-compliant platforms using React, Node.js, and PostgreSQL[cite: 9, 12, 22].
 
 ---
 
-<!-- ========================= -->
-<!--  FEATURED SYSTEMS GRID   -->
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=65&section=header&text=Featured%20Systems&fontColor=ffffff&fontSize=24"/>
-</p>
+## 🛠️ Featured Systems & Architectures
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### SolarSite Intelligence Suite
-
-AI-powered renewable feasibility platform integrating grid capacity, satellite telemetry, and financial modelling.
-
-Core Areas:
-AI • Decision Engine • Geospatial • Grid Capacity • Financial Modelling
+### 🚢 Silvermaris Logistics
+[cite_start]**Lead Platform Engineer** [cite: 15]  
+* **Challenge:** Transforming manual logistics workflows into an automated engine.
+* [cite_start]**Solution:** Built a mobile-first booking platform with custom JavaScript quote calculators and SEO optimization[cite: 16, 17, 18].
+* [cite_start]**Stack:** JavaScript • SEO • Performance Monitoring[cite: 17, 18, 19].
 
 </td>
-
 <td width="50%" valign="top">
 
-### Silvermaris Logistics
-
-Automated logistics quoting & booking engine with modular pricing logic and analytics tracking.
-
-Core Areas:
-Automation • Pricing Engine • SaaS • Analytics • Architecture
+### 🏗️ StackRise
+[cite_start]**Lead Developer** [cite: 20]  
+* **Challenge:** Scaling secure client portals with integrated financial layers.
+* [cite_start]**Solution:** Engineered secure admin portals with Stripe payment integration and standardized tracking frameworks[cite: 21, 22, 23].
+* [cite_start]**Stack:** GDPR-Compliance • Stripe • Analytics[cite: 22, 23].
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### Innovation Visa Assistant
-
-AI-driven eligibility and compliance automation platform.
-
-Core Areas:
-AI • Workflow Engine • Compliance • Decision Systems
+### 📈 Deskstones Ltd
+[cite_start]**Performance Rebuild** [cite: 25]  
+* [cite_start]**Outcome:** Improved SEO visibility by 30% and drastically reduced load times through technical schema and speed optimization[cite: 26, 27].
 
 </td>
-
 <td width="50%" valign="top">
 
-### Hotel Insight Dashboard
-
-Data analytics dashboard automating KPI tracking and reporting.
-
-Core Areas:
-KPI Analytics • Reporting • Automation • BI
+### 📊 Qalhata Technologies
+[cite_start]**BI & Tracking Lead** [cite: 29]  
+* [cite_start]**Outcome:** Synthesized raw web events into actionable marketing insights via Power BI and GA4 implementation[cite: 30].
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-<!-- ========================= -->
-<!--  CORE STACK (2 ROW GRID) -->
-<!-- ========================= -->
+## 💻 Tech Stack & Competencies
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=65&section=header&text=Core%20Technology%20Stack&fontColor=ffffff&fontSize=24"/>
-</p>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logoColor=white)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Data & Analytics
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-### Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logoColor=white)
-
-</td>
-
-</tr>
-</table>
+| Domain | Expert Tools & Frameworks |
+| :--- | :--- |
+| **Frontend Architecture** | [cite_start]React, TypeScript, Next.js, WordPress (Custom PHP), Webflow [cite: 9] |
+| **Backend & Data** | [cite_start]Node.js, Express, PostgreSQL, MongoDB, REST APIs [cite: 12] |
+| **Data Science** | [cite_start]Python, Power BI, SQL, Predictive Analytics [cite: 30, 33] |
+| **Ops & Integrity** | [cite_start]AWS, Docker, Git, Railway, Vercel, Stripe [cite: 11, 13, 22] |
 
 ---
 
-<!-- ========================= -->
-<!--  CURRENTLY BUILDING      -->
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=65&section=header&text=Currently%20Building&fontColor=ffffff&fontSize=24"/>
-</p>
-
-• AI-native SaaS architectures  
-• Intelligent compliance engines  
-• Geospatial decision platforms  
-• Revenue-optimized automation systems  
+## 🎓 Academic & Certifications
+* **MSc Data Science** | [cite_start]Leeds Beckett University 
+* **BSc IT & Business Information Systems** | [cite_start]Middlesex University [cite: 34]
+* [cite_start]**Certifications:** Google Analytics IQ, IBM Data Analyst Professional, SEO Specialist [cite: 36, 38, 39]
 
 ---
 
-<!-- ========================= -->
-<!--  ENGINEERING PHILOSOPHY  -->
-<!-- ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=65&section=header&text=Engineering%20Philosophy&fontColor=ffffff&fontSize=24"/>
+  <b>Currently building high-performance platforms in Leeds, UK.</b><br>
+  <i>"I ship systems that scale—not just websites that sit."</i>
 </p>
 
-Architecture-first design  
-Automation where it matters  
-Data-driven decision logic  
-Scalable modular structure  
-Measurable performance outcomes  
-
----
-
-<!-- ========================= -->
-<!--  CONNECT                 -->
-<!-- ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=65&section=header&text=Let%27s%20Connect&fontColor=ffffff&fontSize=24"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&text=Performance%20Optimized%20%E2%80%A2%20Data%20Driven&fontColor=00F5A0&fontSize=20"/>
 </p>
-
-LinkedIn: https://linkedin.com/in/ebukaumeh  
-Website: https://bhenmedia.com  
-Email: ebuka.umeh40@outlook.com
