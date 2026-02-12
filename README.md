@@ -1,194 +1,128 @@
-<!-- ===================== CUSTOM DARK GRADIENT BANNER ===================== -->
+<!-- ===================== PURE BLACK HEADER ===================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ebuka%20Umeh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20Architect%20|%20Full-Stack%20Engineer%20|%20Data%20Infrastructure%20Builder&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=250&section=header&text=Ebuka%20Umeh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Systems%20Architect%20|%20Full-Stack%20Engineer%20|%20Data%20Infrastructure%20Builder&descAlignY=60&descAlign=50"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+SaaS+Platforms;Architecting+Scalable+Decision+Systems;Designing+Revenue-Driven+Infrastructure;Engineering+Production-Grade+Systems+for+UK+Startups" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ebuka-the-analyst&color=000000&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-<!-- ===================== ANIMATED TYPING HEADER ===================== -->
+<!-- ===================== DARK EXECUTIVE BLOCK ===================== -->
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+SaaS+Platforms;Designing+Revenue-Driven+Decision+Systems;Architecting+Scalable+Cloud+Infrastructure;Transforming+Data+Into+Competitive+Advantage;Engineering+Production-Grade+Systems+for+UK+Startups" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ebuka-the-analyst&color=00e0ff&style=flat-square&label=Profile+Views" />
-</p>
-
----
-
-# 🧠 Executive Positioning
+## 🧠 Executive Overview
 
 Full-Stack Engineer based in the UK building AI-integrated, data-driven systems that solve real commercial problems.
 
-I architect production-ready platforms combining:
+I design:
 
 • AI workflow engines  
-• Decision systems  
-• SaaS infrastructure  
-• Analytics modelling  
-• Geospatial intelligence  
-• Compliance-aware automation  
-
-I build scalable systems — not prototypes.
-
----
-
-# 💼 Funding & Startup Positioning
-
-Positioned for:
-
-• UK Startup CTO collaboration  
-• Early-stage SaaS architecture leadership  
-• AI-driven product builds  
-• Revenue-optimised platform design  
+• Decision automation systems  
+• Revenue-optimised SaaS platforms  
+• Geospatial intelligence products  
 • Compliance-ready infrastructure  
 
-Experience designing systems aligned with:
-
-✔ Operational efficiency  
-✔ Revenue acceleration  
-✔ Automation leverage  
-✔ Scalable cloud deployments  
-✔ Data-first product strategy  
+I build production systems — not prototypes.
 
 ---
 
-# 🚀 Featured Systems (Metric-Driven Highlights)
+## 💼 Optimized for UK Startups & CTOs
 
-## 🌞 SolarSite Intelligence Suite  
-AI-powered renewable energy feasibility platform.
+Designed for:
 
-**Impact Focus:**
-• Integrated grid capacity data  
-• Satellite telemetry modelling  
-• Financial ROI projections  
-• Decision automation engine  
+✔ Startup CTO partnerships  
+✔ Early-stage SaaS architecture  
+✔ AI product build-outs  
+✔ Revenue acceleration systems  
+✔ Scalable cloud infrastructure  
 
-Tags: `AI` `Geospatial` `EnergyTech` `Financial Modelling` `Decision Systems`
+Focus areas:
 
----
-
-## 🚚 Silvermaris Logistics  
-Automated logistics pricing & booking engine.
-
-**Impact Focus:**
-• Modular pricing architecture  
-• Real-time quoting system  
-• Automation-led workflow  
-• Data-backed performance tracking  
-
-Tags: `Automation` `SaaS` `Pricing Engine` `Analytics` `Infrastructure`
+• Operational efficiency  
+• Data-driven product strategy  
+• Automation leverage  
+• Modular backend architecture  
+• Analytics-first execution  
 
 ---
 
-## 🤖 Innovation Visa Assistant  
-AI-driven compliance & eligibility automation platform.
-
-**Impact Focus:**
-• Workflow automation  
-• Regulatory rule engine  
-• AI-guided eligibility logic  
-• Structured data decision trees  
-
-Tags: `AI` `Compliance` `Workflow Engine` `Automation`
+# 🚀 Featured Systems
 
 ---
 
-## 📊 Hotel Insight Dashboard  
-Advanced KPI analytics platform.
+### 🌞 SolarSite Intelligence Suite  
+AI-powered renewable feasibility platform integrating grid capacity, satellite telemetry, and financial modelling.
 
-**Impact Focus:**
-• Executive dashboards  
-• Automated reporting  
-• Financial performance modelling  
-• Operational analytics  
-
-Tags: `Data Analytics` `KPI Systems` `Automation` `BI`
+**Core Stack:** AI | Geospatial | Financial Modelling | Decision Engine
 
 ---
 
-# 🧩 Core Capabilities
+### 🚚 Silvermaris Logistics  
+Automated logistics quoting engine with modular pricing logic and analytics tracking.
 
-<table>
-<tr>
-<td width="33%">
-
-### 🚀 SaaS Architecture
-• React + TypeScript  
-• Modular backend design  
-• API-first systems  
-• Secure auth architecture  
-• Scalable cloud deployments  
-
-</td>
-
-<td width="33%">
-
-### 🤖 AI & Automation
-• GPT-powered engines  
-• Workflow orchestration  
-• Intelligent assistants  
-• Compliance automation  
-• Decision logic systems  
-
-</td>
-
-<td width="33%">
-
-### 📊 Data Engineering
-• SQL modelling  
-• Financial projections  
-• Geospatial analytics  
-• KPI frameworks  
-• Reporting automation  
-
-</td>
-</tr>
-</table>
+**Core Stack:** Automation | SaaS | Pricing Engine | Analytics | Architecture
 
 ---
 
-# 🛠 Dynamic Tech Stack
+### 🤖 Innovation Visa Assistant  
+AI-driven eligibility & compliance automation system.
+
+**Core Stack:** AI | Workflow Engine | Compliance | Automation
+
+---
+
+### 📊 Hotel Insight Dashboard  
+Advanced KPI analytics & executive reporting platform.
+
+**Core Stack:** Data | KPI Analytics | Automation | Reporting
+
+---
+
+# 🛠 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-0f2027?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-203a43?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-2c5364?style=for-the-badge&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F5FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00F5FF)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00F5FF)
 
 ### Backend
-![Node](https://img.shields.io/badge/Node.js-0f2027?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-203a43?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-2c5364?style=for-the-badge&logo=mongodb)
+![Node](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00F5FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00F5FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00F5FF)
 
 ### Data & AI
-![SQL](https://img.shields.io/badge/SQL-0f2027?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-203a43?style=for-the-badge&logo=python)
-![OpenAI](https://img.shields.io/badge/OpenAI-2c5364?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5FF)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge)
 
-### Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-0f2027?style=for-the-badge&logo=amazonaws)
-![Railway](https://img.shields.io/badge/Railway-203a43?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-2c5364?style=for-the-badge&logo=vercel)
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00F5FF)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF)
 
 ---
 
 # 🔄 Currently Building
 
-• AI-driven decision engines for SaaS products  
-• Compliance-aware automation platforms  
-• Geospatial intelligence systems  
-• Revenue-optimised pricing architectures  
-• Intelligent internal admin dashboards  
+• AI decision engines for SaaS  
+• Compliance-aware automation systems  
+• Geospatial intelligence products  
+• Revenue-optimised pricing logic  
+• Intelligent admin dashboards  
 
 ---
 
-# 📈 GitHub Performance
+# 📈 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ebuka-the-analyst&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ebuka-the-analyst&theme=tokyonight&hide_border=true&background=000000"/>
 </p>
 
 ---
@@ -197,7 +131,7 @@ Tags: `Data Analytics` `KPI Systems` `Automation` `BI`
 
 • Architecture before features  
 • Automation where it creates leverage  
-• Data-driven decisions  
+• Data-first decision making  
 • Scalable modular systems  
 • Measurable performance outcomes  
 
