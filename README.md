@@ -1,266 +1,209 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ===================== CUSTOM DARK GRADIENT BANNER ===================== -->
 
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ebuka%20Umeh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20Architect%20|%20Full-Stack%20Engineer%20|%20Data%20Infrastructure%20Builder&descAlignY=55&descAlign=50"/>
+</p>
 
-<h1 style="font-size:42px;">Ebuka Umeh</h1>
+---
 
-<h3>AI Systems Architect | Full-Stack Engineer | Data Infrastructure Builder</h3>
+<!-- ===================== ANIMATED TYPING HEADER ===================== -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+SaaS+Platforms;Designing+Data-Driven+Decision+Systems;Architecting+Scalable+Cloud+Infrastructure;Transforming+Business+Problems+into+Intelligent+Products" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+SaaS+Platforms;Designing+Revenue-Driven+Decision+Systems;Architecting+Scalable+Cloud+Infrastructure;Transforming+Data+Into+Competitive+Advantage;Engineering+Production-Grade+Systems+for+UK+Startups" />
+</p>
 
-<br><br>
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=ebuka-the-analyst&color=00e0ff&style=flat-square&label=Profile+Views" />
-
-</div>
-
-<br>
+</p>
 
 ---
 
-<br>
+# 🧠 Executive Positioning
 
-<!-- ================= POSITIONING BLOCK ================= -->
+Full-Stack Engineer based in the UK building AI-integrated, data-driven systems that solve real commercial problems.
 
-<div align="center">
+I architect production-ready platforms combining:
 
-<table width="100%">
-<tr>
+• AI workflow engines  
+• Decision systems  
+• SaaS infrastructure  
+• Analytics modelling  
+• Geospatial intelligence  
+• Compliance-aware automation  
 
-<td width="50%" valign="top">
-
-<h3>🧠 Executive Positioning</h3>
-
-Full-Stack Engineer based in the UK building AI-integrated, production-grade systems that solve real business problems.
-
-I specialise in:
-
-• End-to-end SaaS architecture  
-• AI-powered workflow automation  
-• Advanced analytics platforms  
-• Geospatial intelligence systems  
-• Scalable backend infrastructure  
-
-I build production systems — not prototypes.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🇬🇧 Optimised for UK Tech Ecosystem</h3>
-
-Designed for:
-
-• Startup CTOs scaling products  
-• Data-driven UK companies  
-• AI-led SaaS ventures  
-• Renewable & logistics platforms  
-• Early-stage technical founders  
-
-Systems aligned with:
-
-• Revenue optimisation  
-• Compliance awareness  
-• Operational efficiency  
-• Analytics-first decision making  
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br><br>
+I build scalable systems — not prototypes.
 
 ---
 
-<br>
+# 💼 Funding & Startup Positioning
 
-<!-- ================= CORE EXPERTISE GRID ================= -->
+Positioned for:
 
-<h2 align="center">⚡ Core Expertise</h2>
+• UK Startup CTO collaboration  
+• Early-stage SaaS architecture leadership  
+• AI-driven product builds  
+• Revenue-optimised platform design  
+• Compliance-ready infrastructure  
 
-<br>
+Experience designing systems aligned with:
 
-<div align="center">
+✔ Operational efficiency  
+✔ Revenue acceleration  
+✔ Automation leverage  
+✔ Scalable cloud deployments  
+✔ Data-first product strategy  
 
-<table width="100%">
+---
+
+# 🚀 Featured Systems (Metric-Driven Highlights)
+
+## 🌞 SolarSite Intelligence Suite  
+AI-powered renewable energy feasibility platform.
+
+**Impact Focus:**
+• Integrated grid capacity data  
+• Satellite telemetry modelling  
+• Financial ROI projections  
+• Decision automation engine  
+
+Tags: `AI` `Geospatial` `EnergyTech` `Financial Modelling` `Decision Systems`
+
+---
+
+## 🚚 Silvermaris Logistics  
+Automated logistics pricing & booking engine.
+
+**Impact Focus:**
+• Modular pricing architecture  
+• Real-time quoting system  
+• Automation-led workflow  
+• Data-backed performance tracking  
+
+Tags: `Automation` `SaaS` `Pricing Engine` `Analytics` `Infrastructure`
+
+---
+
+## 🤖 Innovation Visa Assistant  
+AI-driven compliance & eligibility automation platform.
+
+**Impact Focus:**
+• Workflow automation  
+• Regulatory rule engine  
+• AI-guided eligibility logic  
+• Structured data decision trees  
+
+Tags: `AI` `Compliance` `Workflow Engine` `Automation`
+
+---
+
+## 📊 Hotel Insight Dashboard  
+Advanced KPI analytics platform.
+
+**Impact Focus:**
+• Executive dashboards  
+• Automated reporting  
+• Financial performance modelling  
+• Operational analytics  
+
+Tags: `Data Analytics` `KPI Systems` `Automation` `BI`
+
+---
+
+# 🧩 Core Capabilities
+
+<table>
 <tr>
+<td width="33%">
 
-<td width="33%" valign="top">
-
-<h3>🚀 SaaS Architecture</h3>
-
-• React + Node.js systems  
+### 🚀 SaaS Architecture
+• React + TypeScript  
 • Modular backend design  
-• API-first infrastructure  
-• Secure auth flows  
+• API-first systems  
+• Secure auth architecture  
 • Scalable cloud deployments  
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%">
 
-<h3>🤖 AI & Automation</h3>
-
-• AI decision engines  
+### 🤖 AI & Automation
+• GPT-powered engines  
 • Workflow orchestration  
-• Compliance automation  
 • Intelligent assistants  
-• GPT-powered integrations  
+• Compliance automation  
+• Decision logic systems  
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%">
 
-<h3>📊 Data Systems</h3>
-
-• SQL & database modelling  
-• KPI dashboards  
-• Financial modelling engines  
+### 📊 Data Engineering
+• SQL modelling  
+• Financial projections  
 • Geospatial analytics  
-• Automated reporting systems  
+• KPI frameworks  
+• Reporting automation  
 
 </td>
-
 </tr>
 </table>
 
-</div>
-
-<br><br>
-
 ---
 
-<br>
-
-# 🏗 Featured Systems
-
-<br>
-
-## 🌞 SolarSite Intelligence Suite
-AI-powered renewable energy feasibility platform integrating grid capacity data, satellite telemetry, and financial modelling.
-
-`AI` `Decision Engine` `Geospatial` `Grid Capacity` `Financial Modelling`
-
----
-
-## 🚚 Silvermaris Logistics
-Automated logistics quoting & booking engine with modular pricing architecture and analytics tracking.
-
-`Automation` `Pricing Engine` `Analytics` `SaaS Architecture`
-
----
-
-## 🤖 Innovation Visa Assistant
-AI-driven eligibility and compliance automation system built for structured regulatory workflows.
-
-`AI` `Workflow Engine` `Compliance` `Automation`
-
----
-
-## 📊 Hotel Insight Dashboard
-Performance analytics and automation system transforming raw hospitality data into executive-ready KPIs.
-
-`Data Analytics` `KPI Modelling` `Automation` `Reporting`
-
----
-
-<br>
-
----
-
-# 🧩 Engineering Philosophy
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td width="25%" align="center">
-
-<h4>🏗 Architecture First</h4>
-Systems before features.
-
-</td>
-
-<td width="25%" align="center">
-
-<h4>⚡ Automation Where It Matters</h4>
-Eliminate friction intelligently.
-
-</td>
-
-<td width="25%" align="center">
-
-<h4>📈 Measurable Impact</h4>
-Every build tied to performance.
-
-</td>
-
-<td width="25%" align="center">
-
-<h4>🔐 Production Ready</h4>
-No toy projects.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br><br>
-
----
-
-<br>
-
-# 🛠 Tech Stack
-
-<div align="center">
+# 🛠 Dynamic Tech Stack
 
 ### Frontend
-React • TypeScript • Tailwind • ShadCN
+![React](https://img.shields.io/badge/React-0f2027?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-203a43?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind-2c5364?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
-Node.js • Express • PostgreSQL • MongoDB
+![Node](https://img.shields.io/badge/Node.js-0f2027?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-203a43?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-2c5364?style=for-the-badge&logo=mongodb)
 
-### Data
-SQL • Excel • Power BI • Tableau • Python
+### Data & AI
+![SQL](https://img.shields.io/badge/SQL-0f2027?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-203a43?style=for-the-badge&logo=python)
+![OpenAI](https://img.shields.io/badge/OpenAI-2c5364?style=for-the-badge)
 
 ### Cloud & Infra
-AWS • Railway • Vercel • GitHub Actions
-
-### AI
-OpenAI API • Workflow Automation • Intelligent Agents
-
-</div>
-
-<br><br>
+![AWS](https://img.shields.io/badge/AWS-0f2027?style=for-the-badge&logo=amazonaws)
+![Railway](https://img.shields.io/badge/Railway-203a43?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-2c5364?style=for-the-badge&logo=vercel)
 
 ---
 
-<br>
+# 🔄 Currently Building
+
+• AI-driven decision engines for SaaS products  
+• Compliance-aware automation platforms  
+• Geospatial intelligence systems  
+• Revenue-optimised pricing architectures  
+• Intelligent internal admin dashboards  
+
+---
 
 # 📈 GitHub Performance
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ebuka-the-analyst&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br><br>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ebuka-the-analyst&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-<br>
+# 🎯 Engineering Philosophy
 
-# 📬 Let's Connect
+• Architecture before features  
+• Automation where it creates leverage  
+• Data-driven decisions  
+• Scalable modular systems  
+• Measurable performance outcomes  
+
+---
+
+# 📬 Connect
 
 LinkedIn: https://linkedin.com/in/ebukaumeh  
 Website: https://bhenmedia.com  
@@ -268,3 +211,6 @@ Email: ebuka.umeh40@outlook.com
 
 ---
 
+<p align="center">
+<strong>Building intelligent infrastructure for data-driven companies.</strong>
+</p>
