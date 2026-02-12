@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Ebuka%20Umeh&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Systems Architect | AI Integrator | MSc Data Science</h1>
+<h1 align="center" style="color:#ffffff;">Systems Architect | AI Integrator | MSc Data Science</h1>
 
 <p align="center">
   <b>Engineering High-Integrity Agentic Workflows & Geospatial Intelligence Platforms.</b><br>
-  [cite_start]Specializing in Autonomous AI Systems, Cognitive UX, and Performance-Critical Architectures[cite: 41, 44, 45].
+  Specializing in Autonomous AI Systems, Cognitive UX, and Performance-Critical Architectures.
 </p>
 
 <p align="center">
@@ -16,46 +16,46 @@
 
 ---
 
-## 🛰️ Principal Systems & Agentic Architectures
+<h2 style="color:#ffffff;">🛰️ Principal Systems & Agentic Architectures</h2>
 
-<table width="100%">
+<table width="100%" style="background-color:#000000; color:#ffffff; border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
 
 ### 🌍 F-RADAR (Feasibility Radar)
 **Agentic Geospatial Intelligence Platform**
-* [cite_start]**The Engineering:** Integrated 6 UK government data sources into a 6-stage agentic workflow using LLM function calling[cite: 83, 84].
-* [cite_start]**Impact:** Reduced manual feasibility research by **85%** through automated site analysis and reporting[cite: 83].
-* [cite_start]**Tech:** Leaflet, OpenAI GPT-4o, Government APIs[cite: 81, 82].
+* **The Engineering:** Integrated 6 UK government data sources into a 6-stage agentic workflow using LLM function calling.
+* **Impact:** Reduced manual feasibility research by **85%** through automated site analysis.
+* **Tech:** Leaflet, OpenAI GPT-4o, Government APIs.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
 
 ### 🎓 GCA (Global Competency)
 **AI-Powered Certification Ecosystem**
-* [cite_start]**The Engineering:** Developed a CBT assessment engine with **AI-adaptive questioning** supporting credential recognition across 32 countries[cite: 89, 90].
-* [cite_start]**Impact:** Reduced manual question creation by **80%** via intelligent automation[cite: 90].
-* [cite_start]**Tech:** React, Node.js, PostgreSQL, Stripe[cite: 88].
+* **The Engineering:** Developed a CBT assessment engine with **AI-adaptive questioning** for credential recognition across 32 countries.
+* **Impact:** Reduced manual question creation by **80%** via intelligent automation.
+* **Tech:** React, Node.js, PostgreSQL, Stripe.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
 
 ### 🚢 Silvermaris Logistics
 **Autonomous Quoting & Tracking Engine**
-* [cite_start]**The Engineering:** Architected an intelligent quote calculator with distance-based pricing logic across 20 UK cities[cite: 78].
-* [cite_start]**Impact:** Automated customer service tasks via a multilingual AI assistant and real-time shipment tracking[cite: 79, 80].
-* [cite_start]**Tech:** React, TypeScript, Node.js, GPT-4o[cite: 77].
+* **The Engineering:** Architected an intelligent quote calculator with distance-based pricing logic across 20 UK cities.
+* **Impact:** Automated customer service tasks via a multilingual AI assistant and real-time tracking.
+* **Tech:** React, TypeScript, Node.js, GPT-4o.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
 
 ### 🛂 Innovator Founder Assistant
 **AI-Driven Compliance & Workflow Engine**
-* [cite_start]**The Engineering:** Translating complex regulatory frameworks into deterministic, guided AI workflows[cite: 45, 56].
-* [cite_start]**Impact:** Streamlined lead capture and CRM automation via structured tool-use and OpenAI models[cite: 56].
-* [cite_start]**Tech:** OpenAI, Function Calling, Node.js[cite: 48, 49].
+* **The Engineering:** Translating complex regulatory frameworks into deterministic, guided AI workflows.
+* **Impact:** Streamlined lead capture and CRM automation via structured tool-use and OpenAI models.
+* **Tech:** OpenAI, Function Calling, Node.js.
 
 </td>
 </tr>
@@ -63,35 +63,39 @@
 
 ---
 
-## 🔬 Technical Philosophy: Performance as UX
-> [cite_start]"Complexity is mitigated through structural integrity and data-driven precision[cite: 45]."
+<h2 style="color:#ffffff;">🔬 Technical Philosophy: Performance as UX</h2>
+<blockquote style="background-color:#111; border-left: 5px solid #00F5A0; color:#ccc;">
+ "Complexity is mitigated through structural integrity and data-driven precision."
+</blockquote>
 
-* [cite_start]**Optimization:** Proven record of reducing page load times by **45%** (from 3.2s to 1.8s) through deep technical tuning[cite: 65].
-* [cite_start]**Intelligence:** Deploying **React 18** and **Drizzle ORM** for low-latency, type-safe data handling[cite: 48].
-* [cite_start]**Insights:** Reducing reporting turnaround by **80%** via automated GA4 and Power BI pipelines[cite: 61, 62].
+* **Optimization:** Proven record of reducing page load times by **45%** (from 3.2s to 1.8s) through deep technical tuning.
+* **Intelligence:** Deploying **React 18** and **Drizzle ORM** for low-latency, type-safe data handling.
+* **Insights:** Reducing reporting turnaround by **80%** via automated GA4 and Power BI pipelines.
 
 ---
 
-### 🛠️ Core Stack
+<h3 style="color:#ffffff;">🛠️ Core Stack</h3>
+
 | Layer | Technologies |
 | :--- | :--- |
-| **Intelligence** | [cite_start]OpenAI GPT-4o, Google Gemini, Claude APIs, Agentic Function Calling [cite: 49] |
-| **Frontend** | [cite_start]React 18, TypeScript, Tailwind CSS, Shadcn UI, Framer Motion [cite: 48, 53] |
-| **Backend** | [cite_start]Node.js, Express, PostgreSQL, MongoDB, Drizzle ORM [cite: 48] |
-| **Data & BI** | [cite_start]Python, SQL, GA4, Microsoft Clarity, Power BI [cite: 49, 58] |
+| **Intelligence** | OpenAI GPT-4o, Google Gemini, Claude APIs, Agentic Function Calling |
+| **Frontend** | React 18, TypeScript, Tailwind CSS, Shadcn UI, Framer Motion |
+| **Backend** | Node.js, Express, PostgreSQL, MongoDB, Drizzle ORM |
+| **Data & BI** | Python, SQL, GA4, Microsoft Clarity, Power BI |
 
 ---
 
-### 🎓 Education & Credentials
-* **MSc Data Science** | [cite_start]Leeds Beckett University [cite: 108]
-* **BSc IT & Business Information Systems** | [cite_start]Middlesex University [cite: 109]
-* [cite_start]**Certifications:** IBM Data Analyst, Google Data Analytics, Google Analytics IQ, SEO Specialist [cite: 112]
+<h3 style="color:#ffffff;">🎓 Education & Credentials</h3>
+
+* **MSc Data Science** | Leeds Beckett University
+* **BSc IT & Business Information Systems** | Middlesex University
+* **Certifications:** IBM Data Analyst, Google Data Analytics, Google Analytics IQ, SEO Specialist
 
 ---
 
 <p align="center">
-  <b>Based in Leeds, UK. [cite_start]Currently architecting the next generation of AI-native SaaS[cite: 41, 52].</b><br>
-  <i>"I ship systems that scale—not just websites that sit."</i>
+  <b style="color:#ffffff;">Based in Leeds, UK. Currently architecting the next generation of AI-native SaaS.</b><br>
+  <i style="color:#888;">"I ship systems that scale—not just websites that sit."</i>
 </p>
 
 <p align="center">
