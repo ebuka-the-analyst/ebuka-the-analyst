@@ -1,99 +1,93 @@
-<!-- ======================= -->
-<!-- 🔥 ENTERPRISE HEADER -->
-<!-- ======================= -->
+<!-- ========================= -->
+<!-- 🔥 ELITE ENTERPRISE HEADER -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ebuka+Umeh;Full-Stack+Engineer;AI+%2B+Data-Driven+Systems+Architect;Building+Scalable+SaaS+Platforms;Turning+Data+Into+Decision+Intelligence" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Ebuka%20Umeh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Full-Stack%20Engineer%20%7C%20Data%20Systems%20Architect&descAlignY=65&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Ebuka%20Umeh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+SaaS+Platforms;Architecting+Scalable+Full-Stack+Systems;Turning+Data+Into+Decision+Intelligence;Engineering+Automation+That+Drives+Impact"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ebuka-the-analyst&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ebuka-the-analyst&label=Profile+Views&color=00C2FF&style=flat" />
 </p>
 
 ---
 
-# 🧠 About Me
+# 🧠 Executive Profile
 
-Full-Stack Engineer specializing in AI-integrated SaaS systems, analytics platforms, and geospatial intelligence engines.
+Full-Stack Engineer based in the UK, building AI-integrated, data-driven systems that solve real business problems.
 
-I design and ship production-ready systems that combine:
+I specialize in:
 
-• Scalable web architecture  
-• AI-driven automation  
-• Advanced analytics pipelines  
-• Decision-support dashboards  
-• Modular backend infrastructure  
+• End-to-end SaaS architecture  
+• AI-powered workflow automation  
+• Advanced analytics platforms  
+• Geospatial intelligence systems  
+• Scalable backend infrastructure  
 
-My work sits at the intersection of engineering, data science, and real-world business execution.
-
----
-
-# 🚀 Selected Production Systems
-
-## ☀ SolarSite Intelligence Suite  
-AI-powered renewable energy feasibility platform.
-
-• Integrated geospatial grid capacity datasets  
-• Built financial modelling engines  
-• Structured modular backend logic  
-• Designed analytics-first decision workflows  
-
-Stack: TypeScript • Node.js • Geospatial Analytics • Financial Modelling
+I build production systems — not prototypes.
 
 ---
 
-## 🚚 Silvermaris Logistics  
-Scalable logistics quote engine & booking system.
+# 🇬🇧 Optimized for UK Tech & Startup Ecosystems
 
-• Built automated pricing logic  
-• Designed validation pipelines  
-• Structured analytics tracking  
-• Developed mobile-first UX architecture  
+I design systems that align with:
 
-Stack: React • TypeScript • Node • API Architecture
+• Operational efficiency  
+• Compliance-aware data structures  
+• Revenue-driven automation  
+• Analytics-first product decisions  
+• Scalable cloud deployments  
 
----
+Ideal for:
 
-## 🤖 Innovation Visa Assistant  
-AI-driven eligibility & compliance workflow engine.
-
-• Built rule-based automation logic  
-• Designed scalable backend validation  
-• Integrated AI-assisted decision pipelines  
-
-Stack: React • Node • APIs • Automation Systems
+✔ Startup CTOs scaling product  
+✔ UK data-driven companies  
+✔ SaaS product teams  
+✔ AI-enabled consulting firms  
 
 ---
 
-## 📊 Hotel Insight Dashboard  
-Hospitality performance analytics engine.
+# 🚀 Featured Systems
 
-• Built KPI reporting systems  
-• Automated operational dashboards  
-• Structured decision-ready data pipelines  
+## ☀ SolarSite Intelligence Suite
+![AI Engine](https://img.shields.io/badge/AI-Decision%20Engine-00F0FF?style=for-the-badge)
+![Geospatial](https://img.shields.io/badge/Geospatial-Grid%20Capacity-2c5364?style=for-the-badge)
+![Financial Model](https://img.shields.io/badge/Financial-Modelling-0f2027?style=for-the-badge)
 
-Stack: SQL • Power BI • Excel • Data Modelling
-
----
-
-## 🌍 Global Competency Assessment  
-Multi-region competency certification system.
-
-• Role-based modular architecture  
-• Backend API design  
-• Analytics integration layer  
-
-Stack: Full-Stack TypeScript • Modular Services
+AI-powered renewable energy feasibility platform integrating grid data, satellite telemetry, and financial modelling.
 
 ---
 
-# 🏗 System Architecture Philosophy
+## 🚚 Silvermaris Logistics
+![Automation](https://img.shields.io/badge/Automation-Pricing%20Engine-00F0FF?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Analytics-Tracking-203a43?style=for-the-badge)
+![SaaS](https://img.shields.io/badge/SaaS-Architecture-2c5364?style=for-the-badge)
 
-I design systems following:
+Automated logistics quoting and booking engine with modular pricing logic and analytics tracking.
+
+---
+
+## 🤖 Innovation Visa Assistant
+![AI Logic](https://img.shields.io/badge/AI-Workflow%20Engine-00F0FF?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Compliance-Aware-203a43?style=for-the-badge)
+
+AI-driven eligibility and compliance automation platform.
+
+---
+
+## 📊 Hotel Insight Dashboard
+![Data](https://img.shields.io/badge/Data-KPI%20Analytics-00F0FF?style=for-the-badge)
+![Reporting](https://img.shields.io/badge/Automation-Reporting-203a43?style=for-the-badge)
+
+Operational performance analytics platform used for decision-making.
+
+---
+
+# 🏗 System Architecture Mindset
 
 Frontend  
 ↓  
@@ -103,73 +97,19 @@ Business Logic Engine
 ↓  
 Database  
 ↓  
-Analytics & Reporting Layer  
+Analytics & Decision Layer  
 
-Core Principles:
+Core Engineering Principles:
 
-• Architecture-first engineering  
+• Modular scalable design  
 • Separation of concerns  
-• Scalable modular design  
-• Automation-ready workflows  
-• Data-driven decision logic  
+• Automation-first thinking  
+• Analytics-driven product logic  
+• Measurable performance outcomes  
 
 ---
 
-# 📈 Impact Metrics
-
-• 10+ production systems deployed  
-• Multi-region SaaS platforms built  
-• AI-driven workflow automation implemented  
-• Analytics dashboards powering operational decisions  
-• Geospatial intelligence systems designed  
-
----
-
-# 🚀 Currently Building
-
-• AI-powered compliance engines  
-• Geospatial solar optimization tools  
-• Scalable SaaS admin frameworks  
-• Intelligent reporting automation systems  
-
----
-
-# 🌍 Open Source Focus
-
-Interested in contributing to:
-
-• AI developer tooling  
-• Data visualization ecosystems  
-• Geospatial analytics libraries  
-• Developer productivity tools  
-
----
-
-# 🛠 Tech Stack
-
-## 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-## ⚙ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📊 Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-## 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF4C4C?style=for-the-badge&logo=zapier&logoColor=white)
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
@@ -186,24 +126,35 @@ Interested in contributing to:
 
 ---
 
-# 🖥 Development Environment
+# 🛠 Technology Stack
 
-• VS Code  
-• Git + GitHub  
-• Replit + Railway deployments  
-• Modular API-first backend design  
-• Scalable CI/CD structured workflows  
+## Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+## Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-# 🎓 Education
+# 📈 Impact Metrics
 
-MSc Data Science  
-BSc Information Technology  
+• 10+ production systems deployed  
+• Multi-sector SaaS platforms  
+• AI automation implemented  
+• Analytics powering operational decisions  
+• Geospatial intelligence integrated  
 
 ---
 
-# 📫 Let's Connect
+# 📫 Contact
 
 LinkedIn: https://linkedin.com/in/ebukaumeh  
 Website: https://bhenmedia.com  
