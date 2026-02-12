@@ -2,75 +2,60 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Ebuka%20Umeh&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Systems Architect | Data Science Lead | Performance Engineer</h1>
+<h1 align="center">Systems Architect | AI Integrator | MSc Data Science</h1>
 
 <p align="center">
-  <b>Bridging the Gap Between Computational Rigor and High-Conversion UX.</b><br>
-  MSc Data Science • 5+ Years Full-Stack Engineering • UK-Based Specialist
+  <b>Engineering High-Integrity Agentic Workflows & Geospatial Intelligence Platforms.</b><br>
+  [cite_start]Specializing in Autonomous AI Systems, Cognitive UX, and Performance-Critical Architectures[cite: 41, 44, 45].
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ebukaumeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:benedict.umeh@stackrise.co.uk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:benedict.umeh@bhenmedia.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=00F5A0&text_color=ffffff"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=ebuka-the-analyst&theme=dark&hide_border=true&background=000000&ring=00F5A0&fire=00F5A0"/>
-</p>
-
----
-
-## 🧩 The Strategic Intersection
-> "Modern web architecture is no longer about static delivery; it's about the orchestration of data, performance, and user trust."
-
-[cite_start]I engineer digital ecosystems for high-growth UK startups and CTOs. My approach leverages **MSc-level Data Science**  [cite_start]to inform **Full-Stack development**, ensuring that every line of code serves a measurable commercial outcome.
-
-### Core Value Pillars:
-* [cite_start]**Performance Engineering:** Optimizing Core Web Vitals to reduce latency by up to 45%[cite: 27].
-* [cite_start]**Data Integrity & Analytics:** Implementing high-fidelity tracking (GA4/GTM) and Power BI dashboards to eliminate "data blind spots"[cite: 29, 30].
-* [cite_start]**System Scalability:** Architecting secure, GDPR-compliant platforms using React, Node.js, and PostgreSQL[cite: 9, 12, 22].
-
----
-
-## 🛠️ Featured Systems & Architectures
+## 🛰️ Principal Systems & Agentic Architectures
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🚢 Silvermaris Logistics
-[cite_start]**Lead Platform Engineer** [cite: 15]  
-* **Challenge:** Transforming manual logistics workflows into an automated engine.
-* [cite_start]**Solution:** Built a mobile-first booking platform with custom JavaScript quote calculators and SEO optimization[cite: 16, 17, 18].
-* [cite_start]**Stack:** JavaScript • SEO • Performance Monitoring[cite: 17, 18, 19].
+### 🌍 F-RADAR (Feasibility Radar)
+**Agentic Geospatial Intelligence Platform**
+* [cite_start]**The Engineering:** Integrated 6 UK government data sources into a 6-stage agentic workflow using LLM function calling[cite: 83, 84].
+* [cite_start]**Impact:** Reduced manual feasibility research by **85%** through automated site analysis and reporting[cite: 83].
+* [cite_start]**Tech:** Leaflet, OpenAI GPT-4o, Government APIs[cite: 81, 82].
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ StackRise
-[cite_start]**Lead Developer** [cite: 20]  
-* **Challenge:** Scaling secure client portals with integrated financial layers.
-* [cite_start]**Solution:** Engineered secure admin portals with Stripe payment integration and standardized tracking frameworks[cite: 21, 22, 23].
-* [cite_start]**Stack:** GDPR-Compliance • Stripe • Analytics[cite: 22, 23].
+### 🎓 GCA (Global Competency)
+**AI-Powered Certification Ecosystem**
+* [cite_start]**The Engineering:** Developed a CBT assessment engine with **AI-adaptive questioning** supporting credential recognition across 32 countries[cite: 89, 90].
+* [cite_start]**Impact:** Reduced manual question creation by **80%** via intelligent automation[cite: 90].
+* [cite_start]**Tech:** React, Node.js, PostgreSQL, Stripe[cite: 88].
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Deskstones Ltd
-[cite_start]**Performance Rebuild** [cite: 25]  
-* [cite_start]**Outcome:** Improved SEO visibility by 30% and drastically reduced load times through technical schema and speed optimization[cite: 26, 27].
+### 🚢 Silvermaris Logistics
+**Autonomous Quoting & Tracking Engine**
+* [cite_start]**The Engineering:** Architected an intelligent quote calculator with distance-based pricing logic across 20 UK cities[cite: 78].
+* [cite_start]**Impact:** Automated customer service tasks via a multilingual AI assistant and real-time shipment tracking[cite: 79, 80].
+* [cite_start]**Tech:** React, TypeScript, Node.js, GPT-4o[cite: 77].
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Qalhata Technologies
-[cite_start]**BI & Tracking Lead** [cite: 29]  
-* [cite_start]**Outcome:** Synthesized raw web events into actionable marketing insights via Power BI and GA4 implementation[cite: 30].
+### 🛂 Innovator Founder Assistant
+**AI-Driven Compliance & Workflow Engine**
+* [cite_start]**The Engineering:** Translating complex regulatory frameworks into deterministic, guided AI workflows[cite: 45, 56].
+* [cite_start]**Impact:** Streamlined lead capture and CRM automation via structured tool-use and OpenAI models[cite: 56].
+* [cite_start]**Tech:** OpenAI, Function Calling, Node.js[cite: 48, 49].
 
 </td>
 </tr>
@@ -78,29 +63,37 @@
 
 ---
 
-## 💻 Tech Stack & Competencies
+## 🔬 Technical Philosophy: Performance as UX
+> [cite_start]"Complexity is mitigated through structural integrity and data-driven precision[cite: 45]."
 
-| Domain | Expert Tools & Frameworks |
-| :--- | :--- |
-| **Frontend Architecture** | [cite_start]React, TypeScript, Next.js, WordPress (Custom PHP), Webflow [cite: 9] |
-| **Backend & Data** | [cite_start]Node.js, Express, PostgreSQL, MongoDB, REST APIs [cite: 12] |
-| **Data Science** | [cite_start]Python, Power BI, SQL, Predictive Analytics [cite: 30, 33] |
-| **Ops & Integrity** | [cite_start]AWS, Docker, Git, Railway, Vercel, Stripe [cite: 11, 13, 22] |
+* [cite_start]**Optimization:** Proven record of reducing page load times by **45%** (from 3.2s to 1.8s) through deep technical tuning[cite: 65].
+* [cite_start]**Intelligence:** Deploying **React 18** and **Drizzle ORM** for low-latency, type-safe data handling[cite: 48].
+* [cite_start]**Insights:** Reducing reporting turnaround by **80%** via automated GA4 and Power BI pipelines[cite: 61, 62].
 
 ---
 
-## 🎓 Academic & Certifications
-* **MSc Data Science** | [cite_start]Leeds Beckett University 
-* **BSc IT & Business Information Systems** | [cite_start]Middlesex University [cite: 34]
-* [cite_start]**Certifications:** Google Analytics IQ, IBM Data Analyst Professional, SEO Specialist [cite: 36, 38, 39]
+### 🛠️ Core Stack
+| Layer | Technologies |
+| :--- | :--- |
+| **Intelligence** | [cite_start]OpenAI GPT-4o, Google Gemini, Claude APIs, Agentic Function Calling [cite: 49] |
+| **Frontend** | [cite_start]React 18, TypeScript, Tailwind CSS, Shadcn UI, Framer Motion [cite: 48, 53] |
+| **Backend** | [cite_start]Node.js, Express, PostgreSQL, MongoDB, Drizzle ORM [cite: 48] |
+| **Data & BI** | [cite_start]Python, SQL, GA4, Microsoft Clarity, Power BI [cite: 49, 58] |
+
+---
+
+### 🎓 Education & Credentials
+* **MSc Data Science** | [cite_start]Leeds Beckett University [cite: 108]
+* **BSc IT & Business Information Systems** | [cite_start]Middlesex University [cite: 109]
+* [cite_start]**Certifications:** IBM Data Analyst, Google Data Analytics, Google Analytics IQ, SEO Specialist [cite: 112]
 
 ---
 
 <p align="center">
-  <b>Currently building high-performance platforms in Leeds, UK.</b><br>
+  <b>Based in Leeds, UK. [cite_start]Currently architecting the next generation of AI-native SaaS[cite: 41, 52].</b><br>
   <i>"I ship systems that scale—not just websites that sit."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&text=Performance%20Optimized%20%E2%80%A2%20Data%20Driven&fontColor=00F5A0&fontSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&text=Agentic%20Systems%20%E2%80%A2%20Geospatial%20Intelligence&fontColor=00F5A0&fontSize=20"/>
 </p>
