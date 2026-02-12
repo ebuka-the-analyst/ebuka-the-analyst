@@ -1,168 +1,201 @@
-<!-- ======================= -->
-<!-- 🔥 DARK SVG BANNER -->
-<!-- ======================= -->
+<!-- ====================== -->
+<!-- 🔥 PURE BLACK HEADER  -->
+<!-- ====================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=200&section=header&text=Ebuka%20Umeh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20|%20Full-Stack%20Engineer%20|%20Data%20Systems%20Architect&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=Ebuka%20Umeh&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20Engineer%20%7C%20Systems%20Architect&descAlignY=62&descSize=18"/>
 </p>
 
-<!-- ======================= -->
-<!-- 🔥 ANIMATED TYPING HEADER -->
-<!-- ======================= -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Building+AI-powered+SaaS+Platforms;Designing+Scalable+Data+Systems;Automating+Real+Business+Workflows;Optimized+for+UK+Startups+%26+CTOs" />
-</p>
-
-<!-- ======================= -->
-<!-- 👀 VISITOR COUNTER -->
-<!-- ======================= -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ebuka-the-analyst&label=Profile+Views&color=00f5a0&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ebuka-the-analyst&label=Profile%20Views&color=000000&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧠 Executive Overview
+<!-- ====================== -->
+<!-- 📊 METRICS STRIP      -->
+<!-- ====================== -->
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00F5A0"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ebuka-the-analyst&theme=dark&hide_border=true&background=000000&ring=00F5A0&fire=00F5A0&currStreakLabel=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebuka-the-analyst&bg_color=000000&color=ffffff&line=00F5A0&point=00F5A0&hide_border=true"/>
+</p>
+
+---
+
+<!-- ====================== -->
+<!-- 🧠 EXECUTIVE OVERVIEW -->
+<!-- ====================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Executive%20Overview&fontColor=ffffff&fontSize=24"/>
+</p>
 
 Full-Stack Engineer based in the UK building AI-integrated, data-driven systems that solve real business problems.
 
-I design and ship production-ready platforms across:
+I design and ship:
 
-- AI-powered workflow automation  
-- SaaS architecture  
-- Geospatial intelligence systems  
-- Advanced analytics platforms  
-- Scalable backend infrastructure  
+• End-to-end SaaS platforms  
+• AI-powered workflow automation  
+• Advanced analytics & BI systems  
+• Geospatial intelligence platforms  
+• Scalable backend infrastructure  
 
-I build systems — not prototypes.
+I build production systems — not prototypes.
 
 ---
 
-# 🇬🇧 Optimized for UK Startups & CTOs
+<!-- ====================== -->
+<!-- 🇬🇧 UK STARTUP FOCUS  -->
+<!-- ====================== -->
 
-I engineer platforms aligned with:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Optimized%20for%20UK%20Startups%20%26%20CTOs&fontColor=ffffff&fontSize=24"/>
+</p>
 
-- Operational efficiency  
-- Compliance-aware data models  
-- Revenue-driven automation  
-- Analytics-first product decisions  
-- Scalable cloud deployment  
+I design systems aligned with:
+
+• Operational efficiency  
+• Compliance-aware data structures  
+• Revenue-driven automation  
+• Analytics-first product decisions  
+• Scalable cloud deployments  
 
 Ideal for:
 
 ✔ Startup CTOs scaling product  
 ✔ UK data-driven companies  
-✔ AI-first product teams  
-✔ Funded SaaS environments  
+✔ Founders building AI-native platforms  
 
 ---
 
-# 🚀 Featured Systems
+<!-- ====================== -->
+<!-- 🚀 FEATURED SYSTEMS   -->
+<!-- ====================== -->
 
-<table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Featured%20Systems&fontColor=ffffff&fontSize=24"/>
+</p>
+
+<table width="100%">
 <tr>
-<td width="50%">
 
-### ☀ SolarSite Intelligence Suite  
-AI-powered renewable feasibility platform integrating grid capacity, satellite telemetry, and financial modelling.
+<td width="25%" valign="top">
 
-**Core Areas:**  
-AI • Decision Engine • Geospatial • Grid Capacity • Financial Modelling  
+### ☀ SolarSite Intelligence  
+AI-powered renewable feasibility engine integrating grid data, satellite telemetry & financial modeling.  
+
+**Core:** AI • Geospatial • Grid Capacity • Financial Modelling  
 
 </td>
-<td width="50%">
+
+<td width="25%" valign="top">
 
 ### 🚚 Silvermaris Logistics  
-Automated logistics pricing & booking engine with modular quoting logic and analytics tracking.
+Automated logistics pricing & booking SaaS with modular pricing logic.  
 
-**Core Areas:**  
-Automation • Pricing Engine • SaaS • Analytics • Architecture  
+**Core:** Automation • Pricing Engine • SaaS • Analytics  
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="25%" valign="top">
 
 ### 🤖 Innovation Visa Assistant  
-AI-driven eligibility and compliance automation platform.
+AI-driven eligibility & compliance automation platform.  
 
-**Core Areas:**  
-AI • Workflow Engine • Compliance • Decision Systems  
+**Core:** AI • Workflow Engine • RegTech • Decision Systems  
 
 </td>
-<td width="50%">
+
+<td width="25%" valign="top">
 
 ### 📊 Hotel Insight Dashboard  
-Data analytics dashboard automating KPI tracking and reporting.
+Data analytics dashboard automating KPI tracking & reporting.  
 
-**Core Areas:**  
-KPI Analytics • Reporting • Automation • BI  
+**Core:** KPI Analytics • Reporting • Automation • BI  
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📈 GitHub Performance Metrics
+<!-- ====================== -->
+<!-- 🛠 CORE TECH STACK     -->
+<!-- ====================== -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=ebuka-the-analyst&theme=dark&hide_border=true&background=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Core%20Technology%20Stack&fontColor=ffffff&fontSize=24"/>
 </p>
+
+### 🖥 Frontend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F5A0)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00F5A0)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00F5A0)
+
+### ⚙ Backend
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00F5A0)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00F5A0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00F5A0)
+
+### 📊 Data & Analytics
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5A0)
+![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=00F5A0)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00F5A0)
+
+### ☁ Infrastructure
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00F5A0)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00F5A0)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=00F5A0)
 
 ---
 
-# 🛠 Core Technology Stack
+<!-- ====================== -->
+<!-- 🔄 CURRENTLY BUILDING -->
+<!-- ====================== -->
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F5A0"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00F5A0"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00F5A0"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5A0"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00F5A0"/>
-<img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=00F5A0"/>
-<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00F5A0"/>
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=00F5A0"/>
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00F5A0"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00F5A0"/>
-<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=00F5A0"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Currently%20Building&fontColor=ffffff&fontSize=24"/>
 </p>
 
----
-
-# 🔬 Currently Building
-
-- Advanced AI-integrated SaaS platforms  
-- Renewable intelligence analytics tools  
-- Automation-first logistics systems  
-- Compliance-aware AI decision engines  
+• AI-native SaaS systems  
+• Geospatial analytics engines  
+• Automated pricing decision systems  
+• Workflow-driven compliance platforms  
 
 ---
 
-# 💡 Engineering Philosophy
-
-- Architecture-first design  
-- Automation where it matters  
-- Data-driven decision logic  
-- Modular scalable systems  
-- Measurable business impact  
-
----
-
-# 🤝 Let’s Connect
-
-LinkedIn: https://linkedin.com/in/ebukaumeh  
-Website: https://bhenmedia.com  
-Email: ebuka.umeh40@outlook.com  
-
----
+<!-- ====================== -->
+<!-- 💼 ENGINEERING DNA     -->
+<!-- ====================== -->
 
 <p align="center">
-  <b>Building intelligent systems that scale.</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Engineering%20Philosophy&fontColor=ffffff&fontSize=24"/>
 </p>
+
+• Architecture-first design  
+• Automation where it matters  
+• Data-driven decision logic  
+• Modular & scalable systems  
+• Measurable performance outcomes  
+
+---
+
+<!-- ====================== -->
+<!-- 📬 CONNECT             -->
+<!-- ====================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Let's%20Connect&fontColor=ffffff&fontSize=24"/>
+</p>
+
+**LinkedIn:** https://linkedin.com/in/ebukaumeh  
+**Website:** https://bhenmedia.com  
+**Email:** ebuka.umeh40@outlook.com  
+
+---
