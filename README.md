@@ -1,24 +1,28 @@
-<!-- ====================== -->
-<!-- 🔥 PURE BLACK HEADER  -->
-<!-- ====================== -->
+<!-- ===================================================== -->
+<!--  HERO BANNER (PURE BLACK)                            -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=Ebuka%20Umeh&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20Engineer%20%7C%20Systems%20Architect&descAlignY=62&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=240&section=header&text=Ebuka%20Umeh&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<h3 align="center" style="color:white;">
+AI Engineer | Full-Stack Architect | Data Systems Builder
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ebuka-the-analyst&label=Profile%20Views&color=000000&style=for-the-badge"/>
+Building AI-native SaaS Platforms for UK Startups & CTOs
 </p>
 
 ---
 
-<!-- ====================== -->
-<!-- 📊 METRICS STRIP      -->
-<!-- ====================== -->
+<!-- ===================================================== -->
+<!--  METRICS SECTION                                     -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00F5A0"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=ebuka-the-analyst&theme=dark&hide_border=true&background=000000&ring=00F5A0&fire=00F5A0&currStreakLabel=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ebuka-the-analyst&theme=dark&hide_border=true&background=000000&ring=00F5A0&fire=00F5A0"/>
 </p>
 
 <p align="center">
@@ -27,175 +31,249 @@
 
 ---
 
-<!-- ====================== -->
-<!-- 🧠 EXECUTIVE OVERVIEW -->
-<!-- ====================== -->
+<!-- ===================================================== -->
+<!--  EXECUTIVE OVERVIEW                                  -->
+<!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Executive%20Overview&fontColor=ffffff&fontSize=24"/>
-</p>
+<div style="background:#000000; padding:30px; border-radius:16px; border:1px solid #111111;">
 
-Full-Stack Engineer based in the UK building AI-integrated, data-driven systems that solve real business problems.
+<h2 style="color:white;">Executive Overview</h2>
 
-I design and ship:
+Full-Stack Engineer based in the UK designing production-grade AI systems that solve real commercial problems.
 
-• End-to-end SaaS platforms  
+I build:
+
+• End-to-end SaaS architectures  
 • AI-powered workflow automation  
-• Advanced analytics & BI systems  
 • Geospatial intelligence platforms  
+• Revenue-driven analytics engines  
 • Scalable backend infrastructure  
 
-I build production systems — not prototypes.
+I ship production systems — not prototypes.
 
----
+</div>
 
-<!-- ====================== -->
-<!-- 🇬🇧 UK STARTUP FOCUS  -->
-<!-- ====================== -->
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Optimized%20for%20UK%20Startups%20%26%20CTOs&fontColor=ffffff&fontSize=24"/>
-</p>
+<!-- ===================================================== -->
+<!--  UK STARTUP POSITIONING                              -->
+<!-- ===================================================== -->
 
-I design systems aligned with:
+<div style="background:#000000; padding:30px; border-radius:16px; border:1px solid #111111;">
+
+<h2 style="color:white;">Optimized for UK Startups & CTOs</h2>
+
+Designed for:
+
+• Startup CTOs scaling product  
+• UK data-driven companies  
+• Founders building AI-native platforms  
+
+Architecture principles:
 
 • Operational efficiency  
-• Compliance-aware data structures  
-• Revenue-driven automation  
-• Analytics-first product decisions  
-• Scalable cloud deployments  
+• Compliance-aware systems  
+• Revenue automation logic  
+• Analytics-first product design  
+• Scalable cloud deployment  
 
-Ideal for:
+</div>
 
-✔ Startup CTOs scaling product  
-✔ UK data-driven companies  
-✔ Founders building AI-native platforms  
+<br/>
 
----
+<!-- ===================================================== -->
+<!--  FEATURED SYSTEMS – BLACK GLASS CARDS                -->
+<!-- ===================================================== -->
 
-<!-- ====================== -->
-<!-- 🚀 FEATURED SYSTEMS   -->
-<!-- ====================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Featured%20Systems&fontColor=ffffff&fontSize=24"/>
-</p>
+<h2 align="center" style="color:white;">Featured Systems</h2>
 
 <table width="100%">
 <tr>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### ☀ SolarSite Intelligence  
-AI-powered renewable feasibility engine integrating grid data, satellite telemetry & financial modeling.  
+<div style="background:rgba(0,0,0,0.85); padding:25px; border-radius:18px; border:1px solid #111111;">
 
-**Core:** AI • Geospatial • Grid Capacity • Financial Modelling  
+<h3 style="color:white;">SolarSite Intelligence Suite</h3>
 
-</td>
+AI-powered renewable feasibility platform integrating grid capacity, satellite telemetry, and financial modelling.
 
-<td width="25%" valign="top">
+Core:
+AI • Decision Engine • Geospatial • Grid Capacity • Financial Modelling
 
-### 🚚 Silvermaris Logistics  
-Automated logistics pricing & booking SaaS with modular pricing logic.  
-
-**Core:** Automation • Pricing Engine • SaaS • Analytics  
+</div>
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### 🤖 Innovation Visa Assistant  
-AI-driven eligibility & compliance automation platform.  
+<div style="background:rgba(0,0,0,0.85); padding:25px; border-radius:18px; border:1px solid #111111;">
 
-**Core:** AI • Workflow Engine • RegTech • Decision Systems  
+<h3 style="color:white;">Silvermaris Logistics</h3>
+
+Automated logistics quoting & booking engine with modular pricing logic and analytics tracking.
+
+Core:
+Automation • Pricing Engine • SaaS • Analytics • Architecture
+
+</div>
 
 </td>
 
-<td width="25%" valign="top">
+</tr>
 
-### 📊 Hotel Insight Dashboard  
-Data analytics dashboard automating KPI tracking & reporting.  
+<tr>
 
-**Core:** KPI Analytics • Reporting • Automation • BI  
+<td width="50%" valign="top">
+
+<div style="background:rgba(0,0,0,0.85); padding:25px; border-radius:18px; border:1px solid #111111;">
+
+<h3 style="color:white;">Innovation Visa Assistant</h3>
+
+AI-driven eligibility and compliance automation platform.
+
+Core:
+AI • Workflow Engine • Compliance • Decision Systems
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div style="background:rgba(0,0,0,0.85); padding:25px; border-radius:18px; border:1px solid #111111;">
+
+<h3 style="color:white;">Hotel Insight Dashboard</h3>
+
+Data analytics dashboard automating KPI tracking and reporting.
+
+Core:
+KPI Analytics • Reporting • Automation • BI
+
+</div>
 
 </td>
 
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ====================== -->
-<!-- 🛠 CORE TECH STACK     -->
-<!-- ====================== -->
+<!-- ===================================================== -->
+<!--  CORE STACK – 2 ROW GLASS GRID                       -->
+<!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Core%20Technology%20Stack&fontColor=ffffff&fontSize=24"/>
-</p>
+<h2 align="center" style="color:white;">Core Technology Stack</h2>
 
-### 🖥 Frontend
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F5A0)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00F5A0)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00F5A0)
+<table width="100%">
+<tr>
 
-### ⚙ Backend
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00F5A0)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00F5A0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00F5A0)
+<td width="50%">
 
-### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5A0)
-![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=00F5A0)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00F5A0)
+<div style="background:#000000; padding:20px; border-radius:14px; border:1px solid #111111;">
+<h3 style="color:white;">Frontend</h3>
 
-### ☁ Infrastructure
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00F5A0)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00F5A0)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=00F5A0)
+React  
+TypeScript  
+Next.js  
 
----
+</div>
 
-<!-- ====================== -->
-<!-- 🔄 CURRENTLY BUILDING -->
-<!-- ====================== -->
+</td>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Currently%20Building&fontColor=ffffff&fontSize=24"/>
-</p>
+<td width="50%">
+
+<div style="background:#000000; padding:20px; border-radius:14px; border:1px solid #111111;">
+<h3 style="color:white;">Backend</h3>
+
+Node.js  
+Express  
+PostgreSQL  
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<div style="background:#000000; padding:20px; border-radius:14px; border:1px solid #111111;">
+<h3 style="color:white;">Data & Analytics</h3>
+
+Python  
+Power BI  
+SQL  
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<div style="background:#000000; padding:20px; border-radius:14px; border:1px solid #111111;">
+<h3 style="color:white;">Infrastructure</h3>
+
+AWS  
+Docker  
+Railway  
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================================================== -->
+<!--  CURRENTLY BUILDING                                  -->
+<!-- ===================================================== -->
+
+<div style="background:#000000; padding:30px; border-radius:16px; border:1px solid #111111;">
+
+<h2 style="color:white;">Currently Building</h2>
 
 • AI-native SaaS systems  
-• Geospatial analytics engines  
-• Automated pricing decision systems  
-• Workflow-driven compliance platforms  
+• Intelligent compliance engines  
+• Geospatial decision platforms  
+• Revenue-optimized automation frameworks  
 
----
+</div>
 
-<!-- ====================== -->
-<!-- 💼 ENGINEERING DNA     -->
-<!-- ====================== -->
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Engineering%20Philosophy&fontColor=ffffff&fontSize=24"/>
-</p>
+<!-- ===================================================== -->
+<!--  ENGINEERING PHILOSOPHY                              -->
+<!-- ===================================================== -->
 
-• Architecture-first design  
-• Automation where it matters  
-• Data-driven decision logic  
-• Modular & scalable systems  
-• Measurable performance outcomes  
+<div style="background:#000000; padding:30px; border-radius:16px; border:1px solid #111111;">
 
----
+<h2 style="color:white;">Engineering Philosophy</h2>
 
-<!-- ====================== -->
-<!-- 📬 CONNECT             -->
-<!-- ====================== -->
+Architecture-first design  
+Automation where it matters  
+Data-driven decision logic  
+Scalable modular systems  
+Measurable performance outcomes  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Let's%20Connect&fontColor=ffffff&fontSize=24"/>
-</p>
+</div>
 
-**LinkedIn:** https://linkedin.com/in/ebukaumeh  
-**Website:** https://bhenmedia.com  
-**Email:** ebuka.umeh40@outlook.com  
+<br/>
 
----
+<!-- ===================================================== -->
+<!--  CONNECT                                             -->
+<!-- ===================================================== -->
+
+<div style="background:#000000; padding:25px; border-radius:16px; border:1px solid #111111;">
+
+<h2 style="color:white;">Connect</h2>
+
+LinkedIn: https://linkedin.com/in/ebukaumeh  
+Website: https://bhenmedia.com  
+Email: ebuka.umeh40@outlook.com  
+
+</div>
