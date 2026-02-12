@@ -1,26 +1,39 @@
-<!-- ========================= -->
-<!-- 🔥 ELITE ENTERPRISE HEADER -->
-<!-- ========================= -->
+<!-- ================= HERO SECTION ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Ebuka%20Umeh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Full-Stack%20Engineer%20%7C%20Data%20Systems%20Architect&descAlignY=65&descAlign=50"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+SaaS+Platforms;Architecting+Scalable+Full-Stack+Systems;Turning+Data+Into+Decision+Intelligence;Engineering+Automation+That+Drives+Impact"/>
-</p>
+<h1 style="font-size:42px;">Ebuka Umeh</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ebuka-the-analyst&label=Profile+Views&color=00C2FF&style=flat" />
-</p>
+<h3>AI Systems Architect | Full-Stack Engineer | Data Infrastructure Builder</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+SaaS+Platforms;Designing+Data-Driven+Decision+Systems;Architecting+Scalable+Cloud+Infrastructure;Transforming+Business+Problems+into+Intelligent+Products" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ebuka-the-analyst&color=00e0ff&style=flat-square&label=Profile+Views" />
+
+</div>
+
+<br>
 
 ---
 
-# 🧠 Executive Profile
+<br>
 
-Full-Stack Engineer based in the UK, building AI-integrated, data-driven systems that solve real business problems.
+<!-- ================= POSITIONING BLOCK ================= -->
 
-I specialize in:
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 Executive Positioning</h3>
+
+Full-Stack Engineer based in the UK building AI-integrated, production-grade systems that solve real business problems.
+
+I specialise in:
 
 • End-to-end SaaS architecture  
 • AI-powered workflow automation  
@@ -30,134 +43,228 @@ I specialize in:
 
 I build production systems — not prototypes.
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🇬🇧 Optimised for UK Tech Ecosystem</h3>
+
+Designed for:
+
+• Startup CTOs scaling products  
+• Data-driven UK companies  
+• AI-led SaaS ventures  
+• Renewable & logistics platforms  
+• Early-stage technical founders  
+
+Systems aligned with:
+
+• Revenue optimisation  
+• Compliance awareness  
+• Operational efficiency  
+• Analytics-first decision making  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br><br>
+
 ---
 
-# 🇬🇧 Optimized for UK Tech & Startup Ecosystems
+<br>
 
-I design systems that align with:
+<!-- ================= CORE EXPERTISE GRID ================= -->
 
-• Operational efficiency  
-• Compliance-aware data structures  
-• Revenue-driven automation  
-• Analytics-first product decisions  
+<h2 align="center">⚡ Core Expertise</h2>
+
+<br>
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🚀 SaaS Architecture</h3>
+
+• React + Node.js systems  
+• Modular backend design  
+• API-first infrastructure  
+• Secure auth flows  
 • Scalable cloud deployments  
 
-Ideal for:
+</td>
 
-✔ Startup CTOs scaling product  
-✔ UK data-driven companies  
-✔ SaaS product teams  
-✔ AI-enabled consulting firms  
+<td width="33%" valign="top">
+
+<h3>🤖 AI & Automation</h3>
+
+• AI decision engines  
+• Workflow orchestration  
+• Compliance automation  
+• Intelligent assistants  
+• GPT-powered integrations  
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>📊 Data Systems</h3>
+
+• SQL & database modelling  
+• KPI dashboards  
+• Financial modelling engines  
+• Geospatial analytics  
+• Automated reporting systems  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br><br>
 
 ---
 
-# 🚀 Featured Systems
+<br>
 
-## ☀ SolarSite Intelligence Suite
-![AI Engine](https://img.shields.io/badge/AI-Decision%20Engine-00F0FF?style=for-the-badge)
-![Geospatial](https://img.shields.io/badge/Geospatial-Grid%20Capacity-2c5364?style=for-the-badge)
-![Financial Model](https://img.shields.io/badge/Financial-Modelling-0f2027?style=for-the-badge)
+# 🏗 Featured Systems
 
-AI-powered renewable energy feasibility platform integrating grid data, satellite telemetry, and financial modelling.
+<br>
+
+## 🌞 SolarSite Intelligence Suite
+AI-powered renewable energy feasibility platform integrating grid capacity data, satellite telemetry, and financial modelling.
+
+`AI` `Decision Engine` `Geospatial` `Grid Capacity` `Financial Modelling`
 
 ---
 
 ## 🚚 Silvermaris Logistics
-![Automation](https://img.shields.io/badge/Automation-Pricing%20Engine-00F0FF?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Analytics-Tracking-203a43?style=for-the-badge)
-![SaaS](https://img.shields.io/badge/SaaS-Architecture-2c5364?style=for-the-badge)
+Automated logistics quoting & booking engine with modular pricing architecture and analytics tracking.
 
-Automated logistics quoting and booking engine with modular pricing logic and analytics tracking.
+`Automation` `Pricing Engine` `Analytics` `SaaS Architecture`
 
 ---
 
 ## 🤖 Innovation Visa Assistant
-![AI Logic](https://img.shields.io/badge/AI-Workflow%20Engine-00F0FF?style=for-the-badge)
-![Compliance](https://img.shields.io/badge/Compliance-Aware-203a43?style=for-the-badge)
+AI-driven eligibility and compliance automation system built for structured regulatory workflows.
 
-AI-driven eligibility and compliance automation platform.
+`AI` `Workflow Engine` `Compliance` `Automation`
 
 ---
 
 ## 📊 Hotel Insight Dashboard
-![Data](https://img.shields.io/badge/Data-KPI%20Analytics-00F0FF?style=for-the-badge)
-![Reporting](https://img.shields.io/badge/Automation-Reporting-203a43?style=for-the-badge)
+Performance analytics and automation system transforming raw hospitality data into executive-ready KPIs.
 
-Operational performance analytics platform used for decision-making.
-
----
-
-# 🏗 System Architecture Mindset
-
-Frontend  
-↓  
-API Layer  
-↓  
-Business Logic Engine  
-↓  
-Database  
-↓  
-Analytics & Decision Layer  
-
-Core Engineering Principles:
-
-• Modular scalable design  
-• Separation of concerns  
-• Automation-first thinking  
-• Analytics-driven product logic  
-• Measurable performance outcomes  
+`Data Analytics` `KPI Modelling` `Automation` `Reporting`
 
 ---
 
-# 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebuka-the-analyst&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ebuka-the-analyst&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ebuka-the-analyst&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<br>
 
 ---
 
-# 🛠 Technology Stack
+# 🧩 Engineering Philosophy
 
-## Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<div align="center">
 
-## Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<table width="100%">
+<tr>
 
-## Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<td width="25%" align="center">
+
+<h4>🏗 Architecture First</h4>
+Systems before features.
+
+</td>
+
+<td width="25%" align="center">
+
+<h4>⚡ Automation Where It Matters</h4>
+Eliminate friction intelligently.
+
+</td>
+
+<td width="25%" align="center">
+
+<h4>📈 Measurable Impact</h4>
+Every build tied to performance.
+
+</td>
+
+<td width="25%" align="center">
+
+<h4>🔐 Production Ready</h4>
+No toy projects.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br><br>
 
 ---
 
-# 📈 Impact Metrics
+<br>
 
-• 10+ production systems deployed  
-• Multi-sector SaaS platforms  
-• AI automation implemented  
-• Analytics powering operational decisions  
-• Geospatial intelligence integrated  
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Frontend
+React • TypeScript • Tailwind • ShadCN
+
+### Backend
+Node.js • Express • PostgreSQL • MongoDB
+
+### Data
+SQL • Excel • Power BI • Tableau • Python
+
+### Cloud & Infra
+AWS • Railway • Vercel • GitHub Actions
+
+### AI
+OpenAI API • Workflow Automation • Intelligent Agents
+
+</div>
+
+<br><br>
 
 ---
 
-# 📫 Contact
+<br>
+
+# 📈 GitHub Performance
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebuka-the-analyst&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ebuka-the-analyst&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br><br>
+
+---
+
+<br>
+
+# 📬 Let's Connect
 
 LinkedIn: https://linkedin.com/in/ebukaumeh  
 Website: https://bhenmedia.com  
 Email: ebuka.umeh40@outlook.com  
 
 ---
+
